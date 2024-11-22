@@ -130,5 +130,4 @@ Manages the scheduling of staff members for shifts.
 
 ---
 
-Feel free to customize this README further for your specific needs.
 
